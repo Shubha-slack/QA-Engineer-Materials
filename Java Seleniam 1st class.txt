@@ -1,0 +1,35 @@
+Corejava-->Needed--->OOPs(Object oriented programming language)
+Advanced java
+Spring framework
+
+
+Core Java:
+----------
+OOPs:
+----
+It refers to the language that use objects in the programming.  Object oriented programming aims to implement real world scenario in the format of objects.
+
+OOPs will have below concepts:
+1.  Class
+2.  Object
+3.  Data abstraction.
+4.  Polymorphism
+5.  Inheritance
+6.  Encapsulation
+
+1.  Class:
+A class is a user-defined types.  It consist of data members and members functions, which can be accessed and used by creating an instance of that class.
+
+Example:
+Car is class.
+Hyundai, Maruthi,TATA,BMW is are the object the class.
+
+Example:
+Hyundai is a classs. I20, creta, venue, i10, Alcazar is the object of the Hyundai.
+
+Activities:
+5 different class and 5 different objects of their class.
+
+example:
+Vegetable is a class
+cauliflower, potato, tomato etc are object of the vegetable.
