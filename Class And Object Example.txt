@@ -1,0 +1,16 @@
+1.Rock Music (Class) - Psychedelic Rock, Punk Rock, Grunge, Alternative Rock, Progressive Rock (Objects of that class)
+
+2. Politician (Class) - Narendra Modi, Lalu Prasad Yadav, Barack Obama, Angela Merkel, Justin Trudeau , Mamata Banarjee (Objects of that class)
+
+3.Tech CEO (Class) - Tim Cook, Jeff Bezos, Elon Mask, Sundar Pichai (Objects of that class)
+
+4.Indian Cricketer (Class) - Virat Kohli, Rohit Sharma, Jasprit Bumrah, Shubman Gill, Hardik Pandya (Objects of that class)
+
+5.Indian Actress (Class) - Deepika Padukone, Alia Bhatt, Priyanka Chopra, Anushka Sharma, Kiara Advani (Objects of that class)
+
+
+
+
+
+
+
